@@ -1,0 +1,35 @@
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\Toha\source\repos\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.View.Auth.resources
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.Authorization.resources
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\________.F31BED7F.Up2Date
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+C:\Users\Toha\source\repos\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud\Слепченко 21\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.View.Auth.resources
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.Authorization.resources
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.View.listRequest.resources
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CopyComplete
+C:\Users\stud\Слепченко 21\ОООТехносервис\obj\Debug\ОООТехносервис.View.EditRequest.resources

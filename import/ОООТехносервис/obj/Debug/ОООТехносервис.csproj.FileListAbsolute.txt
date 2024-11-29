@@ -1,0 +1,16 @@
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CopyComplete
+C:\Users\stud\Слепченко 21\import\ОООТехносервис\obj\Debug\ОООТехносервис.Authorization.resources
